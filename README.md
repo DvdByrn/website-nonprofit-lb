@@ -6,4 +6,4 @@ The repository contains the website codebase developed as pro bono work complete
 
 The website is hosted at: https://limmudboston.org/
 <br><br>
-![Screenshot](https://github.com/DvdByrn/website-nonprofit-lb/blob/readme-edits/screenshot_LimmudBoston.png)
+![Screenshot](https://github.com/DvdByrn/website-nonprofit-lb/blob/master/screenshot_LimmudBoston.png)
